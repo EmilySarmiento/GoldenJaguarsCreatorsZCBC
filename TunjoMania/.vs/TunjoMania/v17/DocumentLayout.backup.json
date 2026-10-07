@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C967D28-755F-DAE9-2178-B59456AA8427}|Meryel.CodeAssist.Editor.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\plugins\\codeassist\\editor\\scriptfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C967D28-755F-DAE9-2178-B59456AA8427}|Meryel.CodeAssist.Editor.csproj|solutionrelative:assets\\plugins\\codeassist\\editor\\scriptfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\levelmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C967D28-755F-DAE9-2178-B59456AA8427}|Meryel.CodeAssist.Editor.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\plugins\\codeassist\\editor\\scriptfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C967D28-755F-DAE9-2178-B59456AA8427}|Meryel.CodeAssist.Editor.csproj|solutionrelative:assets\\plugins\\codeassist\\editor\\scriptfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Sprites\\LevelManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LevelManagment.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManagment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManagment.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManagment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManagment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:33:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ScriptFinder.cs",
               "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Plugins\\CodeAssist\\Editor\\ScriptFinder.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\CodeAssist\\Editor\\ScriptFinder.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "Assets\\Plugins\\CodeAssist\\Editor\\ScriptFinder.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAArwKIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T03:32:33.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T03:32:33.072Z"
             },
             {
               "$type": "Document",
@@ -45,13 +61,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
               "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T03:29:39.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Sprites\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Sprites\\LevelManager.cs",

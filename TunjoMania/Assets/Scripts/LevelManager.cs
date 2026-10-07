@@ -3,31 +3,41 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
+    public static LevelManager Instance;
 
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void CargarNivel()
     {
-
-    }
-
-    public void BotonInicio()
-    {
+        Debug.Log("CargandoNivel");
         SceneManager.LoadScene(1);
     }
 
-    public void BotonCreditos()
+    public void ReiniciarJuego()
     {
-        SceneManager.LoadScene(3);
-    }
-    public void BotonSalir()
-    {
-        Debug.Log("Salir del juego");
-        Application.Quit();
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
+    public void CargarCreditos()
+    {
+        Debug.Log("CargandoCreditos");
+        SceneManager.LoadScene(3);
+    }
+
+    public void SalirJuego()
+    {
+        Debug.Log("Saliendo del juego");
+        Application.Quit();
+    }
 }
