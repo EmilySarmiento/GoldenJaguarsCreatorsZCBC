@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\no abrir confidencial que nadie es digno de ver\\gestorsombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\gestorsombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\no abrir confidencial que nadie es digno de ver\\sombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\sombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\estadoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\estadoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorSombras.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
+              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
+              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:04:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sombras.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
+              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
+              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:50:19.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Luces.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
+              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
+              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAcwM0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:18:37.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
+              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
+              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:38:27.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
+              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
+              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T04:45:52.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
