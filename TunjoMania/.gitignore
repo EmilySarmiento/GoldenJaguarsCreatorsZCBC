@@ -1,10 +1,12 @@
 # Unity generados
 [Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
 
 # Archivos de usuario
 *.csproj
@@ -20,3 +22,6 @@
 # Cache de sistema
 .DS_Store
 Thumbs.db
+.vs/
+.idea/
+
