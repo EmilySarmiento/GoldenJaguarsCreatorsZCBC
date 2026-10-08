@@ -102,37 +102,37 @@ Nataly Guzmán Sáenz
 Laura Villa  
 Emily Sarmiento 
 Alberto Barrero Fontecha  
-Dirección y coordinación general del proyecto
+**Dirección y coordinación general del proyecto**
 
 **Producción Visual**
 
 Laura Yiseth Reyes Arias  
-Elementos gráficos
+**Elementos gráficos**
 
 Nataly Guzmán Sáenz  
-Diseño de personaje y escenografía
+**Diseño de personaje y escenografía**
 
 Alberto Barrero Fontecha
-Escenografía
+**Escenografía**
 
 **Sonido y Audio**
 
-Laura Villa  
-Producción de doblaje  
+Laura Villa
+**Producción de doblaje**
 Soundtrack
 
 Andrés Palacios  
-Voz del personaje
+**Voz del personaje**
 
 **Desarrollo**
 Emily Sarmiento  
-Mecánicas de juego  
-Programación  
-Integración  
-Cinemáticas
+**Mecánicas de juego**
+**Programación**  
+**Integración**  
+**Cinemáticas**
 
 Alberto Barrero Fontecha
-Integración  
+**Integración**  
 
 **Documentación Técnica**
 Laura Villa  
