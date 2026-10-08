@@ -7,6 +7,10 @@ public class BarraTiempo : MonoBehaviour
     public float tiempoActual;
 
     public float tiempoPorObjeto = 5f;
+    public bool derrota=false;
+    public AudioSource Dialodo_derrota;
+    public Luces Luz;
+    private bool trigger=true;
 
     private Vector3 escalaInicial;
 
@@ -38,9 +42,14 @@ public class BarraTiempo : MonoBehaviour
         // Cuando se acaba el tiempo
         if (tiempoActual <= 0)
         {
-            Debug.Log("PERDISTE");
-            SceneManager.LoadScene(3);
-
+            if (trigger == true)
+            {
+                Debug.Log("PERDISTE");
+                derrota = true;
+                Dialodo_derrota.Play();
+                Luz.ActivarApocalipsis();
+                trigger = false;
+            }
         }
     }
 
