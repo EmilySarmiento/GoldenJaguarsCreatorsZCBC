@@ -1,6 +1,7 @@
 <p align="center">
   <img src="ASSETS/Titulo (Realizado por Emily).png" alt="Titulo Tunjomania" width="560">
 </p>
+
 # TUNJOMANIA: Guerreros de Sie
 
 **Proyecto de Narrativas Digitales | Olimpiadas Unadistas 2026**
