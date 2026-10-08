@@ -93,7 +93,7 @@ El agua es fundamental para la vida, las comunidades y el equilibrio de los ecos
 **El verdadero objetivo no es solamente completar una aventura, sino comprender que cuidar el agua es una responsabilidad compartida.**
 
 
-CRÉDITOS
+## CRÉDITOS
 
 **Dirección**
 
