@@ -16,9 +16,18 @@ public class CharacterController : MonoBehaviour
     void Update()
     {
         speedX = Input.GetAxisRaw("Horizontal") * movSpeed;
-        animator.SetFloat("movementx", speedX);
+        
         speedY = Input.GetAxisRaw("Vertical") * movSpeed;
         rb.linearVelocity = new Vector2(speedX, speedY);
+
+        if (speedX != 0)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+        }
 
     }
 }
