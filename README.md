@@ -93,61 +93,56 @@ El agua es fundamental para la vida, las comunidades y el equilibrio de los ecos
 **El verdadero objetivo no es solamente completar una aventura, sino comprender que cuidar el agua es una responsabilidad compartida.**
 
 
-## CRÉDITOS
+## Créditos
 
-- **Dirección**
+### Dirección y coordinación general
 
-Laura Yiseth Reyes Arias  
-Nataly Guzmán Sáenz  
-Laura Villa  
-Emily Sarmiento 
-Alberto Barrero Fontecha  
-**Dirección y coordinación general del proyecto**
+* Laura Yiseth Reyes Arias
+* Nataly Guzmán Sáenz
+* Laura Villa
+* Emily Sarmiento
+* Alberto Barrero Fontecha
 
-- **Producción Visual**
+### Producción visual
 
-Laura Yiseth Reyes Arias  
-**Elementos gráficos**
+| Integrante               | Responsabilidad                     |
+| ------------------------ | ----------------------------------- |
+| Laura Yiseth Reyes Arias | Elementos gráficos                  |
+| Nataly Guzmán Sáenz      | Diseño de personajes y escenografía |
+| Alberto Barrero Fontecha | Escenografía                        |
 
-Nataly Guzmán Sáenz  
-**Diseño de personaje y escenografía**
+### Sonido y audio
 
-Alberto Barrero Fontecha
-**Escenografía**
+| Integrante      | Responsabilidad                    |
+| --------------- | ---------------------------------- |
+| Laura Villa     | Producción de doblaje y soundtrack |
+| Andrés Palacios | Voz del personaje                  |
 
-- **Sonido y Audio**
+### Desarrollo
 
-Laura Villa
-**Producción de doblaje**
-**Soundtrack**
+| Integrante               | Responsabilidad                                             |
+| ------------------------ | ----------------------------------------------------------- |
+| Emily Sarmiento          | Mecánicas de juego, programación, integración y cinemáticas |
+| Alberto Barrero Fontecha | Integración                                                 |
 
-Andrés Palacios  
-**Voz del personaje**
+### Documentación técnica
 
-- **Desarrollo**
+* Laura Villa
+* Nataly Guzmán Sáenz
 
-Emily Sarmiento  
-**Mecánicas de juego**
-**Programación**  
-**Integración**  
-**Cinemáticas**
+### Guion multimedia
 
-Alberto Barrero Fontecha
-**Integración**  
-
-- **Documentación Técnica**
-Laura Villa  
-Nataly Guzmán Sáenz
-
-- **Guion Multimedia**
-Laura Villa
-Laura Yiseth Reyes Arias
-
-- **Agradecimientos**
-A todas las personas que aportaron su creatividad, conocimientos y dedicación para hacer posible este proyecto.
-
-Gracias por ser parte de esta experiencia.
+* Laura Villa
+* Laura Yiseth Reyes Arias
 
 ---
 
-**Proyecto académico · Olimpiadas Unadistas 2026 · Narrativas Digitales · UNAD**
+### Agradecimientos
+
+A todas las personas que aportaron su creatividad, conocimientos y dedicación para hacer posible este proyecto.
+
+**Gracias por ser parte de esta experiencia.**
+
+---
+
+*Proyecto de Narrativas Digitales · Olimpiadas Unadistas 2026 · Universidad Nacional Abierta y a Distancia (UNAD)*
