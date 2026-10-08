@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Cinematica.unity
+    guid: 42680b5b642bafa4eb9eaedbf46c731c
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: 4b9d4be3e1aa8af47a25b0138bbe6880
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 9665ef199a9b0fb4cbab9ec2961b5516
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: a053aa936ffd7304dbe4bb7dbbbbe72b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
