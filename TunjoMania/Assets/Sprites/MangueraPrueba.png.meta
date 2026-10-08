@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MangueraPrueba_0: 6497106413587264207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

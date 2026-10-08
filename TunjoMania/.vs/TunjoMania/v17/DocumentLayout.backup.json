@@ -1,42 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\",
+  "WorkspaceRootPath": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\camarafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camarafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\gestorsombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\gestorsombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\sombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\sombras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\estadoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\estadoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\no abrir confidencial que nadie es digno de ver\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\no abrir confidencial que nadie es digno de ver\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CamaraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CamaraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CamaraFollow.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CamaraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CamaraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T03:38:16.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BarraTiempo.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BarraTiempo.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BarraTiempo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T02:49:49.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fugas.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Fugas.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Fugas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T01:44:16.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CharacterController.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T00:40:49.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GestorSombras.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
-              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
-              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\GestorSombras.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAQwLAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T19:04:04.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sombras.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
-              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
-              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Sombras.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowIQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T17:50:19.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Luces.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
-              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
-              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Luces.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAcwM0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T17:18:37.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EstadoAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
-              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
-              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\EstadoAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T05:38:27.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Estados.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
-              "RelativeDocumentMoniker": "Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
-              "RelativeToolTip": "Assets\\No abrir confidencial que nadie es digno de ver\\Estados.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T04:45:52.133Z"
+              "WhenOpened": "2026-10-08T05:10:08.676Z",
+              "EditorCaption": ""
             }
           ]
         }

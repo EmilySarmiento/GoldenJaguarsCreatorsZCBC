@@ -151,7 +151,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 23a2729415494124b9a11860c12a3d64
-      internalID: -79279064
+      internalID: -5882170695943828418
       vertices: []
       indices: 
       edges: []
@@ -173,7 +173,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2964b8f5a41398b4dad3cf8ec1d52838
-      internalID: 21046837
+      internalID: 7591774343886807129
       vertices: []
       indices: 
       edges: []
@@ -195,7 +195,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c65541551a039064d8647b82691e6956
-      internalID: -171357902
+      internalID: 8088830456793213489
       vertices: []
       indices: 
       edges: []
@@ -215,9 +215,9 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Water_0: 6049605792901559095
-      Water_1: -79279064
-      Water_2: 21046837
-      Water_3: -171357902
+      Water_1: -5882170695943828418
+      Water_2: 7591774343886807129
+      Water_3: 8088830456793213489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

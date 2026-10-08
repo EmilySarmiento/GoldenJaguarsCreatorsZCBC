@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SONIDO OFF_0: 7961733533786856302
+      SONIDO OFF_1: -6459170125662339438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
