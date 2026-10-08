@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Fugas : MonoBehaviour
 {
@@ -25,6 +26,12 @@ public class Fugas : MonoBehaviour
             barraTiempo.AgregarTiempo();
             // Desaparecer objeto
             Destroy(gameObject);
+
+            if ( contador == 8)
+            {
+                Debug.Log("GANASTE");
+                SceneManager.LoadScene(3);
+            }
         }
     }
 }

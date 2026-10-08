@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BarraTiempo : MonoBehaviour
 {
@@ -38,6 +39,8 @@ public class BarraTiempo : MonoBehaviour
         if (tiempoActual <= 0)
         {
             Debug.Log("PERDISTE");
+            SceneManager.LoadScene(3);
+
         }
     }
 
