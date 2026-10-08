@@ -21,7 +21,9 @@ La narrativa toma como inspiración elementos de la cultura muisca y su relació
 A partir de esta inspiración, el jugador se adentra en una aventura ambientada en escenarios inspirados en Facatativá, donde deberá comprender la importancia del agua para la vida, las comunidades y los ecosistemas.
 
 La historia busca establecer un vínculo entre los saberes culturales, la problemática ambiental contemporánea y la responsabilidad colectiva de proteger los recursos naturales.
-
+<p align="center">
+  <img src="ASSETS/BannerTunjo.png" alt="Banner Tunjo Inicial" width="560">
+</p>
 ## ¿Cómo funciona la propuesta?
 
 El videojuego plantea un recorrido por diferentes escenarios relacionados con la vida cotidiana y el territorio:
