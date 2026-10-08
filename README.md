@@ -25,6 +25,7 @@ La historia busca establecer un vínculo entre los saberes culturales, la proble
 <p align="center">
   <img src="ASSETS/BannerTunjo.png" alt="Banner Tunjo Inicial" width="560">
 </p>
+
 ## ¿Cómo funciona la propuesta?
 
 El videojuego plantea un recorrido por diferentes escenarios relacionados con la vida cotidiana y el territorio:
