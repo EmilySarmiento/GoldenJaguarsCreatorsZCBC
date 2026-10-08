@@ -95,7 +95,7 @@ El agua es fundamental para la vida, las comunidades y el equilibrio de los ecos
 
 ## CRÉDITOS
 
-**Dirección**
+- **Dirección**
 
 Laura Yiseth Reyes Arias  
 Nataly Guzmán Sáenz  
@@ -104,7 +104,7 @@ Emily Sarmiento
 Alberto Barrero Fontecha  
 **Dirección y coordinación general del proyecto**
 
-**Producción Visual**
+- **Producción Visual**
 
 Laura Yiseth Reyes Arias  
 **Elementos gráficos**
@@ -115,16 +115,17 @@ Nataly Guzmán Sáenz
 Alberto Barrero Fontecha
 **Escenografía**
 
-**Sonido y Audio**
+- **Sonido y Audio**
 
 Laura Villa
 **Producción de doblaje**
-Soundtrack
+**Soundtrack**
 
 Andrés Palacios  
 **Voz del personaje**
 
-**Desarrollo**
+- **Desarrollo**
+
 Emily Sarmiento  
 **Mecánicas de juego**
 **Programación**  
@@ -134,15 +135,15 @@ Emily Sarmiento
 Alberto Barrero Fontecha
 **Integración**  
 
-**Documentación Técnica**
+- **Documentación Técnica**
 Laura Villa  
 Nataly Guzmán Sáenz
 
-**Guion Multimedia**
+- **Guion Multimedia**
 Laura Villa
 Laura Yiseth Reyes Arias
 
-**Agradecimientos**
+- **Agradecimientos**
 A todas las personas que aportaron su creatividad, conocimientos y dedicación para hacer posible este proyecto.
 
 Gracias por ser parte de esta experiencia.
