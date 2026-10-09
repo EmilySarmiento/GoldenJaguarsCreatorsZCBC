@@ -1527,7 +1527,7 @@ GameObject:
   - component: {fileID: 5967752007021179887}
   - component: {fileID: 7493669044809010820}
   m_Layer: 0
-  m_Name: sonido paloma
+  m_Name: sonido carro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1569,10 +1569,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 9.48
-  MaxDistance: 17.9
+  MinDistance: 11.793774
+  MaxDistance: 17.549429
   Pan2D: 0
-  rolloffMode: 1
+  rolloffMode: 2
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -1580,19 +1580,19 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0.6282261
+      time: 0.52600783
       value: 1
-      inSlope: -1.5924201
-      outSlope: -1.5924201
+      inSlope: -0.1170183
+      outSlope: -0.1170183
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
-      outWeight: 0
+      outWeight: 0.19936146
     - serializedVersion: 3
       time: 1
-      value: 0.017105103
-      inSlope: -0.62847584
-      outSlope: -0.62847584
+      value: 0
+      inSlope: -2.1258905
+      outSlope: -2.1258905
       tangentMode: 0
       weightedMode: 0
       inWeight: 0

@@ -7,6 +7,7 @@ public class Manguera : MonoBehaviour
 
     [SerializeField] private float velocidadCrecimiento = 1f;
     [SerializeField] private bool cerrar = false;
+    [SerializeField] private GameObject manguera;
 
     private void Start()
     {
@@ -16,6 +17,11 @@ public class Manguera : MonoBehaviour
 
     private void Update()
     {
+        if (manguera.gameObject.activeSelf) { }
+
+        else { 
+            cerrar = true; }
+
         if (cerrar == true)
             return;
         // Si ya llegó al tamaño máximo, no hacemos nada
