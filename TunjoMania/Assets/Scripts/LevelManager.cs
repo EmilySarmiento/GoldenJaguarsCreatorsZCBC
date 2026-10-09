@@ -5,7 +5,7 @@ public class LevelManager : MonoBehaviour
 {
     public static LevelManager Instance;
 
-    private void Awake()
+    /*private void Awake()
     {
         if (Instance == null)
         {
@@ -16,7 +16,7 @@ public class LevelManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-    }
+    }*/
 
     public void CargarNivel()
     {

@@ -9,6 +9,7 @@ public class CharacterController : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 lastDirection;
     private Animator animator;
+    public bool caminar;
 
     void Start()
     {
@@ -21,6 +22,16 @@ public class CharacterController : MonoBehaviour
         lastDirection.x = Input.GetAxisRaw("Horizontal");
         lastDirection.y = Input.GetAxisRaw("Vertical");
 
+        if (lastDirection.x != 0 || lastDirection.y != 0)
+        {
+            caminar = true;
+        }
+        else
+        {
+            caminar=false;
+        }
+
+       
         lastDirection = lastDirection.normalized;
 
         animator.SetFloat("Horizontal", lastDirection.x);
