@@ -8,6 +8,7 @@ public class BarraTiempo : MonoBehaviour
 
     public float tiempoPorObjeto = 5f;
     public bool derrota=false;
+    public GameObject canvaderrota;
     public AudioSource Dialodo_derrota;
     public Luces Luz;
     private bool trigger=true;
@@ -23,6 +24,10 @@ public class BarraTiempo : MonoBehaviour
 
     void Update()
     {
+        if (derrota == true)
+        {
+            canvaderrota.SetActive(true);
+        }
         // Disminuir el tiempo
         tiempoActual -= Time.deltaTime;
 

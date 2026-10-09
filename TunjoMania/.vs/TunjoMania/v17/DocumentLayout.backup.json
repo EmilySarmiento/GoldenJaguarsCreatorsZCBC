@@ -1,43 +1,62 @@
-<<<<<<< HEAD
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\faca\\estadosluzcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\estadosluzcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\faca\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\faca\\trayectoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\trayectoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\faca\\paloma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\paloma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\faca\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Manguera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Manguera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\SonidoCaminata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\SonidoCaminata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Trayectoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\EstadosLuzCarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\EstadosLuzCarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Paloma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Paloma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,45 +74,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Video.cs",
+              "RelativeDocumentMoniker": "Assets\\Faca\\Video.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Video.cs",
+              "RelativeToolTip": "Assets\\Faca\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T09:22:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Boton.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\Boton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boton.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\Boton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boton.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T09:11:52.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:59:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manguera.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Manguera.cs",
+              "RelativeDocumentMoniker": "Assets\\Faca\\Manguera.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Manguera.cs",
+              "RelativeToolTip": "Assets\\Faca\\Manguera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T08:49:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SonidoCaminata.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\SonidoCaminata.cs",
+              "RelativeDocumentMoniker": "Assets\\Faca\\SonidoCaminata.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\SonidoCaminata.cs",
+              "RelativeToolTip": "Assets\\Faca\\SonidoCaminata.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:34:46.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trayectoria.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs",
+              "RelativeDocumentMoniker": "Assets\\Faca\\Trayectoria.cs",
+              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs",
+              "RelativeToolTip": "Assets\\Faca\\Trayectoria.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T03:53:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "EstadosLuzCarro.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\EstadosLuzCarro.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\EstadosLuzCarro.cs",
               "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\EstadosLuzCarro.cs",
               "RelativeToolTip": "Assets\\Faca\\EstadosLuzCarro.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwE4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T04:56:25.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Estados.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Estados.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Estados.cs",
               "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Estados.cs",
               "RelativeToolTip": "Assets\\Faca\\Estados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T04:54:25.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Trayectoria.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs",
-              "RelativeDocumentMoniker": "Assets\\Faca\\Trayectoria.cs",
-              "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs",
-              "RelativeToolTip": "Assets\\Faca\\Trayectoria.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:53:30.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Car.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Car.cs",
@@ -101,11 +186,12 @@
               "RelativeToolTip": "Assets\\Faca\\Car.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:49:03.585Z"
+              "WhenOpened": "2026-10-09T03:49:03.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Paloma.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Paloma.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Paloma.cs",
@@ -113,11 +199,12 @@
               "RelativeToolTip": "Assets\\Faca\\Paloma.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAcwIsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:37:40.913Z"
+              "WhenOpened": "2026-10-09T02:37:40.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Luces.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Luces.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Luces.cs",
@@ -125,19 +212,21 @@
               "RelativeToolTip": "Assets\\Faca\\Luces.cs",
               "ViewState": "AgIAAKwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T23:17:17.424Z"
+              "WhenOpened": "2026-10-08T23:17:17.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BarraTiempo.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BarraTiempo.cs",
               "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
               "RelativeToolTip": "Assets\\Scripts\\BarraTiempo.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:57:53.17Z"
+              "WhenOpened": "2026-10-08T22:57:53.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -153,13 +242,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "CharacterController.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
               "ToolTip": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
               "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T05:10:08.676Z"
             }
@@ -168,156 +257,4 @@
       ]
     }
   ]
-=======
-{
-  "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\dialogomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
-  "DocumentGroupContainers": [
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DialogoManager.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\DialogoManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogoManager.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\DialogoManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogoManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:48:10.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:22:05.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Boton.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Boton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Boton.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Boton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Boton.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:14:34.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LevelManager.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:49:52.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Luces.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Faca\\Luces.cs",
-              "RelativeDocumentMoniker": "Assets\\Faca\\Luces.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Faca\\Luces.cs",
-              "RelativeToolTip": "Assets\\Faca\\Luces.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T23:17:17.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BarraTiempo.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BarraTiempo.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BarraTiempo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:57:53.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fugas.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Fugas.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Fugas.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAowJgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T19:42:59.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CharacterController.cs",
-              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
-              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T05:10:08.676Z"
-            }
-          ]
-        }
-      ]
-    }
-  ]
->>>>>>> main
 }

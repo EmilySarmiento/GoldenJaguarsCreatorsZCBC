@@ -1,5 +1,6 @@
 
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BotonNivel : MonoBehaviour
 {
@@ -49,5 +50,10 @@ public class BotonNivel : MonoBehaviour
             LevelManager.Instance.SalirJuego();
         else
             Debug.LogError("No existe un LevelManager activo.");
+    }
+
+    public void ReiniciarEscena()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
