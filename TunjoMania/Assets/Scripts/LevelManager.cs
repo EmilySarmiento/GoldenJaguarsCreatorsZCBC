@@ -24,6 +24,18 @@ public class LevelManager : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+    public void CambioEscena()
+    {
+        Debug.Log("CambiandoEscena");
+        SceneManager.LoadScene(2);
+    }
+
+    public void MenuInicial()
+    {
+        Debug.Log("CambiandoEscena");
+        SceneManager.LoadScene(0);
+    }
+
     public void ReiniciarJuego()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
