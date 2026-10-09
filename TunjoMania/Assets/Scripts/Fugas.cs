@@ -1,74 +1,161 @@
+using System.Collections;
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
-using UnityEngine.Audio;
 
 public class Fugas : MonoBehaviour
 {
+    [Header("Contador y tiempo")]
     public TextMeshProUGUI contadorTexto;
     public BarraTiempo barraTiempo;
 
-    private bool collected = false;
+    [Header("Interfaz del dialogo")]
+    public GameObject PanelDialogo;
+    public TextMeshProUGUI TextoDialogo;
+
+    [TextArea(2, 5)]
+    public string Mensaje;
+
+    [Header("Interfaz de victoria")]
+    public GameObject PanelVictoria;
+
+    [Header("Escena de creditos")]
+    public string NombreEscenaCreditos = "Creditos";
+
+    [Header("Audios")]
     public AudioSource Dialogo;
     public AudioSource Sonido_Elegido;
     public AudioSource Sonido_Victoria;
+
+    [Header("Objetos visuales")]
     public GameObject Objeto_Gastadir;
     public GameObject Objeto_Ahorrativo;
-    public BarraTiempo Barratiempos;
 
+    private bool collected = false;
+    private static bool dialogoActivo = false;
 
-    public void Start()
+    private void Start()
     {
-        Objeto_Ahorrativo.SetActive(false);
-        Objeto_Gastadir.SetActive(true);
-        Barratiempos = FindFirstObjectByType<BarraTiempo>();
+        if (Objeto_Ahorrativo != null)
+            Objeto_Ahorrativo.SetActive(false);
+
+        if (Objeto_Gastadir != null)
+            Objeto_Gastadir.SetActive(true);
+
+        if (barraTiempo == null)
+            barraTiempo = FindFirstObjectByType<BarraTiempo>();
+
+        if (PanelDialogo != null)
+            PanelDialogo.SetActive(false);
+
+        if (PanelVictoria != null)
+            PanelVictoria.SetActive(false);
     }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collected)
+        if (collected || dialogoActivo)
             return;
 
-        if (other.CompareTag("Player"))
+        if (!other.CompareTag("Player"))
+            return;
+
+        if (barraTiempo == null || barraTiempo.derrota)
+            return;
+
+        collected = true;
+        StartCoroutine(ProcesoRecoleccion());
+    }
+
+    private IEnumerator ProcesoRecoleccion()
+    {
+        dialogoActivo = true;
+
+        int contador = int.Parse(contadorTexto.text);
+        contador++;
+        contadorTexto.text = contador.ToString();
+
+        barraTiempo.AgregarTiempo();
+
+        if (Objeto_Ahorrativo != null)
+            Objeto_Ahorrativo.SetActive(true);
+
+        if (Objeto_Gastadir != null)
+            Objeto_Gastadir.SetActive(false);
+
+        // Pausar el juego mientras se reproduce el dialogo
+        Time.timeScale = 0f;
+
+        if (PanelDialogo != null)
+            PanelDialogo.SetActive(true);
+
+        if (TextoDialogo != null)
+            TextoDialogo.text = Mensaje;
+
+        if (Sonido_Elegido != null)
+            Sonido_Elegido.Play();
+
+        if (Dialogo != null && Dialogo.clip != null)
         {
-            if (barraTiempo.derrota == false)
+            Dialogo.Play();
+
+            while (Dialogo.isPlaying)
+                yield return null;
+        }
+
+        if (PanelDialogo != null)
+            PanelDialogo.SetActive(false);
+
+        if (contador >= 8)
+        {
+            Debug.Log("¡GANASTE! Entrando al bloque de victoria.");
+
+            // Mostrar la interfaz de victoria
+            if (PanelVictoria != null)
             {
-                collected = true;
+                PanelVictoria.SetActive(true);
+                Debug.Log("PanelVictoria activado: " + PanelVictoria.activeSelf);
+            }
+            else
+            {
+                Debug.LogError("PanelVictoria NO está asignado.");
+            }
 
-                // Aumentar contador
-                int contador = int.Parse(contadorTexto.text);
-                contador++;
-                contadorTexto.text = contador.ToString();
-                //Agrega tiempo a barra de porcntaje de agua
-                barraTiempo.AgregarTiempo();
-                Sonido_Elegido.Play();
-                Dialogo.Play();
-                Objeto_Ahorrativo.SetActive(true);
-                Objeto_Gastadir.SetActive(false);
+            // Reproducir el audio de victoria
+            if (Sonido_Victoria != null)
+            {
+                Debug.Log("Audio asignado: " + Sonido_Victoria.name);
+                Debug.Log("Clip asignado: " +
+                    (Sonido_Victoria.clip != null));
 
-
-
-                if (contador == 8)
+                if (Sonido_Victoria.clip != null)
                 {
-                    Debug.Log("GANASTE");
-                    StartCoroutine(EsperarAudio());
+                    Sonido_Victoria.Play();
+                    Debug.Log("Audio reproduciéndose: " +
+                        Sonido_Victoria.isPlaying);
 
-
-                }
-                else
-                {
-                    // Desaparecer objeto
-                    Destroy(gameObject);
+                    while (Sonido_Victoria.isPlaying)
+                        yield return null;
                 }
             }
+            else
+            {
+                Debug.LogError("Sonido_Victoria NO está asignado.");
+            }
+
+            Debug.Log("¡GANASTE! Finalizó el proceso de victoria.");
+
+            Destroy(gameObject);
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(NombreEscenaCreditos);
+
+            yield break;
         }
-    }
-    private System.Collections.IEnumerator EsperarAudio()
-    {
-        yield return new WaitWhile(() => Dialogo.isPlaying);
 
-        Sonido_Victoria.Play();
-        Debug.Log("GANASTEf");
+        // Si aun no ha ganado, destruir el objeto recogido
         Destroy(gameObject);
-    }
 
+        Time.timeScale = 1f;
+        dialogoActivo = false;
+    }
 }

@@ -1,33 +1,35 @@
+
 using UnityEngine;
 
 public class CharacterController : MonoBehaviour
 {
-    public float movSpeed;
-    float speedX, speedY;
-    Rigidbody2D rb;
-    public Animator animator;
+    public float movSpeed = 5f;
+
+
+    private Rigidbody2D rb;
+    private Vector2 lastDirection;
+    private Animator animator;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        speedX = Input.GetAxisRaw("Horizontal") * movSpeed;
-        
-        speedY = Input.GetAxisRaw("Vertical") * movSpeed;
-        rb.linearVelocity = new Vector2(speedX, speedY);
+        lastDirection.x = Input.GetAxisRaw("Horizontal");
+        lastDirection.y = Input.GetAxisRaw("Vertical");
 
-        if (speedX != 0)
-        {
-            animator.SetBool("isRunning", true);
-        }
-        else
-        {
-            animator.SetBool("isRunning", false);
-        }
+        lastDirection = lastDirection.normalized;
 
+        animator.SetFloat("Horizontal", lastDirection.x);
+        animator.SetFloat("Vertical", lastDirection.y);
+        animator.SetFloat("Speed", lastDirection.magnitude);
+    }
+
+    private void FixedUpdate()
+    {
+        rb.linearVelocity = lastDirection * movSpeed;
     }
 }

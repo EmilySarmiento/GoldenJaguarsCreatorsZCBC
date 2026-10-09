@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\",
@@ -151,4 +152,140 @@
       ]
     }
   ]
+=======
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\emily\\documents\\documentos_unity\\fasezonalmaraton\\tunjomania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barratiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T03:22:05.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boton.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Boton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boton.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Boton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boton.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T03:14:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:49:52.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Luces.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Faca\\Luces.cs",
+              "RelativeDocumentMoniker": "Assets\\Faca\\Luces.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Faca\\Luces.cs",
+              "RelativeToolTip": "Assets\\Faca\\Luces.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:17:17.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarraTiempo.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BarraTiempo.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\BarraTiempo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BarraTiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:57:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fugas.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fugas.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fugas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:42:59.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",
+              "ToolTip": "C:\\Users\\emily\\Documents\\Documentos_Unity\\FaseZonalMaraton\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:10:08.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+>>>>>>> main
 }
