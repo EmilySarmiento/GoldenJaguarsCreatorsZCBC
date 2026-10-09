@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|solutionrelative:assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AB22B53-BB28-D5B2-16AD-79B39AB2EE41}|Assembly-CSharp.csproj|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\assets\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Faca\\Luces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\alber\\downloads\\olimpiadasunadistas\\goldenjaguarscreatorszcbc\\tunjomania\\assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\faca\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Video.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Video.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Video.cs",
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Assets\\Faca\\Video.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T09:22:27.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T09:22:27.064Z"
             },
             {
               "$type": "Document",
@@ -108,12 +107,11 @@
               "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T08:59:41.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-09T08:59:41.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Manguera.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Manguera.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Manguera.cs",
@@ -126,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "SonidoCaminata.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\SonidoCaminata.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\SonidoCaminata.cs",
@@ -139,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Trayectoria.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Trayectoria.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Trayectoria.cs",
@@ -152,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "EstadosLuzCarro.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\EstadosLuzCarro.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\EstadosLuzCarro.cs",
@@ -191,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Paloma.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Paloma.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Paloma.cs",
@@ -204,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Luces.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Faca\\Luces.cs",
               "RelativeDocumentMoniker": "Assets\\Faca\\Luces.cs",
@@ -225,12 +223,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BarraTiempo.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:57:53.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T22:57:53.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Fugas.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\Fugas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fugas.cs",
@@ -242,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CharacterController.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Downloads\\Olimpiadasunadistas\\GoldenJaguarsCreatorsZCBC\\TunjoMania\\Assets\\Scripts\\CharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController.cs",

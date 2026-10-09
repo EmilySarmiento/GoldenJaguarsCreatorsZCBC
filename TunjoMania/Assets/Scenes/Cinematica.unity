@@ -804,8 +804,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2073391196}
   - component: {fileID: 2073391197}
-  - component: {fileID: 2073391199}
   - component: {fileID: 2073391198}
+  - component: {fileID: 2073391199}
   m_Layer: 0
   m_Name: BotonNivel
   m_TagString: Untagged
