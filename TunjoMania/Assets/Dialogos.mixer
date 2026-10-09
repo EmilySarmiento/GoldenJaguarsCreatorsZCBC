@@ -42,6 +42,25 @@ AudioMixerEffectController:
   m_SendTarget: {fileID: 0}
   m_EnableWetMix: 0
   m_Bypass: 0
+--- !u!243 &-2543201361908638436
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: paloma
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 60654615a3064a7488d757e98cee1156
+  m_Children: []
+  m_Volume: 132c1eb182e22b2449e8cd481d033dce
+  m_Pitch: d1679ac4db9aea94cb98b4591ceeca72
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: -1024418873714846858}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
 --- !u!243 &-1730012298105861482
 AudioMixerGroupController:
   m_ObjectHideFlags: 0
@@ -80,6 +99,20 @@ AudioMixerGroupController:
   m_Mute: 0
   m_Solo: 0
   m_BypassEffects: 0
+--- !u!244 &-1024418873714846858
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 6a1bd93ac38803a4884e6550bdc69e82
+  m_EffectName: Attenuation
+  m_MixLevel: c9ea4d831814437409f614a9d423b073
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
 --- !u!241 &24100000
 AudioMixerController:
   m_ObjectHideFlags: 0
@@ -103,6 +136,7 @@ AudioMixerController:
     - 7ed5cc0ec6929cf46a8a1c7cdc9bf6b9
     - b074efd4a086fc34496eefac97f4d639
     - 83ebc8984683740458f8c8705746ed6e
+    - 60654615a3064a7488d757e98cee1156
     name: View
   m_CurrentViewIndex: 0
   m_TargetSnapshot: {fileID: 24500006}
@@ -120,6 +154,7 @@ AudioMixerGroupController:
   - {fileID: 5072004426026619026}
   - {fileID: -1730012298105861482}
   - {fileID: 1115376767044826348}
+  - {fileID: -2543201361908638436}
   m_Volume: 91032ef743ac95c42aba7852e1881c7a
   m_Pitch: 832c1c7a177d60d45a70efae43dfed9f
   m_Send: 00000000000000000000000000000000
@@ -153,6 +188,7 @@ AudioMixerSnapshotController:
   m_AudioMixer: {fileID: 24100000}
   m_SnapshotID: 12d28f24cd527ff498ac81a50b7db260
   m_FloatValues:
+    132c1eb182e22b2449e8cd481d033dce: -2.5738313
     07eeb132c41d5454493e54fb121d8121: 0.13552584
     050a6567ba7968f49a770d442a92094f: -5.7224774
     c6d8156b03a692c4bb34d24993388db5: 6.2251854

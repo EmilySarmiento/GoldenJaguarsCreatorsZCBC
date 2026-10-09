@@ -45,11 +45,14 @@ TagManager:
   - name: Fondo
     uniqueID: 2793072659
     locked: 0
+  - name: FondoUp
+    uniqueID: 2509626245
+    locked: 0
   - name: Player
     uniqueID: 2066274847
     locked: 0
-  - name: FondoUp
-    uniqueID: 2509626245
+  - name: Arriba del Proyecto
+    uniqueID: 3660793035
     locked: 0
   m_RenderingLayers:
   - Default
