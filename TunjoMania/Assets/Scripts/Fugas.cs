@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public class Fugas : MonoBehaviour
 {
@@ -15,7 +16,6 @@ public class Fugas : MonoBehaviour
     public GameObject Objeto_Ahorrativo;
     public BarraTiempo Barratiempos;
 
-    private bool trigger = true;
 
     public void Start()
     {
@@ -44,20 +44,31 @@ public class Fugas : MonoBehaviour
                 Dialogo.Play();
                 Objeto_Ahorrativo.SetActive(true);
                 Objeto_Gastadir.SetActive(false);
-                // Desaparecer objeto
-                Destroy(gameObject);
+
+
 
                 if (contador == 8)
                 {
-                    if (trigger == true)
-                    {
-                        trigger = false;
+                    Debug.Log("GANASTE");
+                    StartCoroutine(EsperarAudio());
 
-                        Debug.Log("GANASTE");
-                        Sonido_Victoria.Play();
-                    }
+
+                }
+                else
+                {
+                    // Desaparecer objeto
+                    Destroy(gameObject);
                 }
             }
         }
     }
+    private System.Collections.IEnumerator EsperarAudio()
+    {
+        yield return new WaitWhile(() => Dialogo.isPlaying);
+
+        Sonido_Victoria.Play();
+        Debug.Log("GANASTEf");
+        Destroy(gameObject);
+    }
+
 }
